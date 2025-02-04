@@ -16,7 +16,7 @@
   <br>
   💻 I love solving problems, writing code, AI/ML, and learning new things 😊
   <br>
-  📚 I’m currently learning Machine Learning algorithms
+  📚 I’m currently creating a website where students can collaborate on projects to build their resumes
   <br>
   📫 How to reach me 👇
 </p>
