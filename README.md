@@ -9,7 +9,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hey I'm Ibraheem, a Comp Sci student and aspiring SWE!
+  Hey I'm Ibraheem, a Comp Sci student and aspiring SWE
   <br>
   <br>
   👨‍🎓 I'm currently completing my Bachelor's of Computer Science at Carleton University, with an AI/ML course stream
