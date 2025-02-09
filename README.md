@@ -12,9 +12,9 @@
   Hey I'm Ibraheem, a Comp Sci student and aspiring SWE!
   <br>
   <br>
-  👨‍🎓 I'm currently completing my Bachelor's of Computer Science at Carleton University, with an AI/ML course stream!
+  👨‍🎓 I'm currently completing my Bachelor's of Computer Science at Carleton University, with an AI/ML course stream
   <br>
-  💻 I love solving problems, writing code, AI/ML, and learning new things 😊
+  💻 I love solving problems, writing code, AI/ML, and learning new things 
   <br>
   📚 I’m currently creating a website where students can collaborate on projects to build their resumes
   <br>
