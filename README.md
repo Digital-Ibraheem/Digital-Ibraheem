@@ -32,7 +32,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,js,react,next,pytorch,sklearn,mongo,html,css,java,cs,flask,git,vscode,postman,linux,express,unity,redux,npm&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=py,js,react,next,spring,sklearn,mongo,html,css,java,cs,flask,git,vscode,postman,linux,express,unity,redux,npm&perline=10"  />
 </p>
 
 
