@@ -14,10 +14,6 @@
   <br>
   👨‍🎓 I'm currently completing my Bachelor's of Computer Science at Carleton University, with an AI/ML course stream
   <br>
-  💻 I love solving problems, writing code, AI/ML, and learning new things 
-  <br>
-  📚 I’m currently creating a website where students can collaborate on projects to build their resumes
-  <br>
   📫 How to reach me 👇
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/ibraheem-dawod/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:ibraheemd101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
