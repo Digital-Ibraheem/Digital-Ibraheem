@@ -45,16 +45,23 @@
 </p>
 
 <hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
-<br>
-<p align="center">
-<a href="https://github.com/digital-ibraheem/movie-recommender-backend/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digital-ibraheem&repo=movie-recommender-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-  
-<a href="https://github.com/digital-ibraheem/ether-technologies/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digital-ibraheem&repo=ether-technologies&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+
+### Agent Budget Guard  
+Real-time dollar budget enforcement for AI agents.  
+Hard session caps that stop runaway LLM spend before it happens.  
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/digital-ibraheem/agent-budget-guard)
+
+<br><br>
+
+### Movie Recommender  
+Machine learning recommendation engine built with Python and Flask.  
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/digital-ibraheem/movie-recommender-backend)
+
+</div>
+ 
 
 </p>
 
