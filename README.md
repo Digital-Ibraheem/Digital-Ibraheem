@@ -22,27 +22,6 @@
 <!--   <a href="https://github.com/Ibraheem/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
  <!--  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> -->
 </p>
-<hr>
-
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,js,react,next,spring,sklearn,mongo,html,css,java,cs,flask,git,vscode,postman,linux,express,unity,redux,npm&perline=10"  />
-</p>
-
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
-
-<p align="center">
-<a href="https://github.com/digital-ibraheem/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=digital-ibraheem&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
-</p>
 
 <hr>
 <h2 align="center">Featured Projects</h2>
@@ -61,7 +40,14 @@ Machine learning recommendation engine built with Python and Flask.
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/digital-ibraheem/movie-recommender-backend)
 
 </div>
- 
+
+<hr>
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="600px"  src="https://skillicons.dev/icons?i=py,js,react,next,spring,sklearn,mongo,html,css,java,cs,flask,git,vscode,postman,linux,express,unity,redux,npm&perline=10"  />
+</p>
 
 </p>
 
