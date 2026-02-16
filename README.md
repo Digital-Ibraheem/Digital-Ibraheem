@@ -9,13 +9,11 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hey I'm Ibraheem, a Comp Sci student and aspiring SWE
-  <br>
-  <br>
-  👨‍🎓 I'm currently completing my Bachelor's of Computer Science at Carleton University, with an AI/ML course stream
-  <br>
-  📫 How to reach me 👇
+  Hi, I’m Ibraheem — Software Developer Intern at <strong>Kinaxis</strong>, previously at <strong>Delty (YC X25)</strong> and <strong>Solink</strong>, and studying CS at Carleton Univeristy.
+  <br><br>
+  📫 Connect with me below.
 </p>
+
 <p align="center"> <a href="https://www.linkedin.com/in/ibraheem-dawod/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:ibraheemd101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
 
