@@ -9,8 +9,8 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I’m Ibraheem — Software Developer Intern at <strong>Kinaxis</strong>, previously at <strong>Delty (YC X25)</strong> and <strong>Solink</strong>, and studying CS at Carleton Univeristy.
-  <br><br>
+  Hi, I’m Ibraheem - Software Developer Intern at <strong>Kinaxis</strong>, previously at <strong>Delty (YC X25)</strong> and <strong>Solink</strong>. I'm currently studying CS at Carleton Univeristy.
+  <br>
   📫 Connect with me below.
 </p>
 
